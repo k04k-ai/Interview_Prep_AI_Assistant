@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24"
+    android:tint="#757575"> <!-- Tinted gray to match the button text color -->
+
+    <path
+        android:fillColor="#FF000000"
+        android:pathData="M22.56,12.25c0,-0.81 -0.07,-1.58 -0.21,-2.32L12,12.44V15.77H17.29C17.06,19.3 14.77,21.5 12,21.5C8.13,21.5 5,18.37 5,14.5C5,10.63 8.13,7.5 12,7.5C14.16,7.5 15.98,8.27 17.3,9.55L19.78,7.07C18.15,5.63 15.22,4.5 12,4.5C6.7,4.5 2.5,8.7 2.5,14C2.5,19.3 6.7,23.5 12,23.5C17.3,23.5 22.5,19.3 22.5,14C22.5,13.25 22.56,12.25 22.56,12.25Z" />
+</vector>

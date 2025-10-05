@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "138343414269",
+    "project_id": "interview-prep-ai-assistant",
+    "storage_bucket": "interview-prep-ai-assistant.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138343414269:android:946150485e21d70bb5c194",
+        "android_client_info": {
+          "package_name": "com.example.interviewprepaiassistant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "138343414269-46s5s6g8oshv83vrvvph386mplt64429.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQ8iKhYAyeKo_lCLEWuWTeNlnRIhCZnxs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "138343414269-46s5s6g8oshv83vrvvph386mplt64429.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

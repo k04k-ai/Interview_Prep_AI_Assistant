@@ -1,0 +1,14 @@
+// Top-level build file where you can add configuration options common to all sub-projects/modules.
+plugins {
+    alias(libs.plugins.android.application) apply false
+
+    // >>> ADD THIS LINE <<<
+    id 'com.google.gms.google-services' version '4.4.1' apply false
+
+    // You might also need this for Firebase Crashlytics or Analytics later:
+    // id 'com.google.firebase.crashlytics' version '2.9.2' apply false
+}
+
+// Optionally, if you have other configurations outside the plugins block, keep them here:
+// allprojects { ... }
+// task clean(type: Delete) { ... }
